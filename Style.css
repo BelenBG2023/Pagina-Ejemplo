@@ -1,0 +1,18 @@
+body {
+    background-color: darkorange;
+}
+
+
+.alerta {
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.oferta {
+    font-size: medium;
+    font-weight: initial;
+}
+
+.hello {
+    font-weight: bold;
+}
